@@ -1,0 +1,20 @@
+# PyInstaller build output (regenerate with `pyinstaller passfit.spec`)
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Repomix scan output (not part of the actual project)
+repomix-output.xml
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
